@@ -26,7 +26,8 @@ Problem:
                              
                              
                              
-    The requirement that the numbers may be infinitely large implies that you cannot use standard data types to represent these numbers. Therefore, you will need a data structure that appropriately represents such large natural numbers and you will redefine the multiplication operation in terms of these data structures. A typical data structure to exploit in this case is linked lists (LLs). You may hold each number (including the result) in a LL each digit stored in a node and, while multiplying each pair of digits of multiplicand and multiplier, you may accordingly update the relevant digits in the result. We provide below how the second example is implemented.
+
+  The requirement that the numbers may be infinitely large implies that you cannot use standard data types to represent these numbers. Therefore, you will need a data structure that appropriately represents such large natural numbers and you will redefine the multiplication operation in terms of these data structures. A typical data structure to exploit in this case is linked lists (LLs). You may hold each number (including the result) in a LL each digit stored in a node and, while multiplying each pair of digits of multiplicand and multiplier, you may accordingly update the relevant digits in the result. We provide below how the second example is implemented.
   
 In this project you are expected to develop an algorithm that is capable of finding a solution to the above problem and implement this algorithm in C that runs under
 

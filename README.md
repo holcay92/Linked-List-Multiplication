@@ -5,6 +5,7 @@ PROJECT #1 (Due November 5, 2021, Friday at 17:00)
 Problem:
     Assume an (theoretically) infinitely large positive natural number specified in decimal number system. How can we multiply it in our computer? We look for a solution that is capable of multiplying such a number. The infinitely large numbers concerning the multiplication (i.e., the multiplicand and the result) should be shown in the original number system presented to your program.
   Example 1:
+  
         5301858469230152002541253
         
                                 8
